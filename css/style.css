@@ -12,6 +12,7 @@ body {
   margin-top: 100px;
   top: 65%;
   left: 50%;
+ 
 }
 
 .navbar li {
@@ -47,6 +48,7 @@ body {
   .social-media img {
     width: 30px;
     height: 30px;
+    
   }
 }
 
@@ -80,12 +82,13 @@ body {
   background-color: #fff;
   color: #000;
   border-radius: 0;
+  
 }
 .box-1 {
   width: 100%;
   min-height: 500px;
   max-height: 1100px;
-  background: url(http://www.hdwallpapers.in/walls/dark_scenery_blue-wide.jpg) no-repeat center center fixed;
+  background: url(http://images.all-free-download.com/images/graphiclarge/blurred_golden_background_192849.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

@@ -8,4 +8,5 @@ Google Fonts
 
 https://teohongwei898.github.io
 
-Huge thanks to FreeCodeCamp for all the tutorials on JavaScript, HTML and CSS. Without these help I would not be able to create this site from scratch. 
+Huge thanks to FreeCodeCamp for all the tutorials on JavaScript, HTML and CSS. 
+Without these help I would not be able to create this site from scratch. 
